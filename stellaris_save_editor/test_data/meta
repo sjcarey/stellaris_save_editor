@@ -1,0 +1,33 @@
+version="Corvus v4.2.4"
+version_control_revision=43
+name="Kingdom of Yondarim"
+date="2353.06.10"
+required_dlcs=
+{
+	"Apocalypse"
+	"Horizon Signal"
+	"Utopia"
+}
+player_portrait="avi10"
+flag=
+{
+	icon=
+	{
+		category="zoological"
+		file="flag_zoological_6.dds"
+	}
+	background=
+	{
+		category="backgrounds"
+		file="stripes.dds"
+	}
+	colors=
+	{
+		"blue"
+		"dark_blue"
+		"null"
+		"null"
+	}
+}
+meta_fleets=719
+meta_planets=8
